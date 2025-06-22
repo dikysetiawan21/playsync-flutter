@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="assets/images/psxarena.png" width="200" alt="PSX Arena">
-  <img src="assets/images/warzonePS.png" width="200" alt="Warzone PS">
+  <img src="assets/images/warzone-PS.png" width="200" alt="Warzone PS">
   <img src="assets/images/gamehub.png" width="200" alt="GameHub">
 </div>
 
